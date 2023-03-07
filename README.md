@@ -16,3 +16,21 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+### :woman_technologist: About Me :
+I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope:with the main interest in Machine Learning and C++ development.
+-:seedling: Exploring Technical Content Writing.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yakub-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yakub-yakubov-a46898223/)
+
+    
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yakub28&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+    
+
+
+ 
