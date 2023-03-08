@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope:with the main interest in Machine Learning and C++ development.
+- :telescope:with the main interest in Machine Learning, C++ development and Competative Programming.
 -:seedling: Exploring Technical Content Writing.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yakub-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yakub-yakubov-a46898223/)
 
