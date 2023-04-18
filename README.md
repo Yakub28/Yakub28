@@ -24,9 +24,14 @@ I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
     
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yakub28&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yakub28&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=fffaraz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&layout=compact&hide_border=true&langs_count=10&hide=html,css">
+</p>
 
     
 
