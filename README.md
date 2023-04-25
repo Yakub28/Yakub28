@@ -28,7 +28,7 @@ I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&langs_count=8)](https://github.com/Yakub28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Yakub28&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
