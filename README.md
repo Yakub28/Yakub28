@@ -35,7 +35,7 @@ I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&layout=compact&hide_border=true&langs_count=10&hide=html,css">
 </p> -->
 <!-- Ranking de Linguagens -->
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&layout=compact&langs_count=15&theme=dracula)](https://github.com/laryferreira/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub28&layout=compact&langs_count=15&theme=dracula)](https://github.com/Yakub28)
     
 
 
