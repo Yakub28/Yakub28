@@ -24,3 +24,4 @@ I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
     
 ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yakub28)](https://git.io/streak-stats)
