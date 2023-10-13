@@ -1,11 +1,3 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/yakub-yakubov-a46898223/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </a>
-  </div>
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -18,8 +10,12 @@ I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <img src="https://skillicons.dev/icons?i=cpp,java,py,go,c,cs,git,docker,linux,mysql,sqlite,qt,unity" />
   </a>
 </p>
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yakub-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yakub-yakubov-a46898223/)
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yakub-yakubov-a46898223/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </a>
+</div>
     
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yakub28)](https://git.io/streak-stats)
