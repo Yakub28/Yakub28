@@ -10,7 +10,7 @@ I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <img src="https://skillicons.dev/icons?i=cpp,java,py,go,c,cs,git,docker,linux,mysql,sqlite,qt,unity" />
   </a>
 </p>
-<div id="badges">
+- :telescope:<div id="badges">
   <a href="https://www.linkedin.com/in/yakub-yakubov-a46898223/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
