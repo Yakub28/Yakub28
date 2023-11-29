@@ -3,7 +3,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am an amateur Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope:with the main interest in Machine Learning, C++/Java development and Competative Programming.
 - <p align="center">
   <a href="https://skillicons.dev">
