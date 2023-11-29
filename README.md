@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About Me :
 I am Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope:with the main interest in Machine Learning, C++/Java development and Competative Programming.
+- :telescope:with the main interest in C++/Java/Python development and Cloud technologies.
 - <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,go,c,cs,git,docker,linux,mysql,sqlite,qt,unity" />
