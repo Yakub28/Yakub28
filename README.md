@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding GIF"/>
-
-  # Software Engineer
   
-  **Building high-performance systems and scaling the decentralized future.**
+  **Building high-performance systems.**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yakub-yakubov-a46898223/)
 </div>
@@ -14,8 +12,8 @@
 I thrive in the **0 to 1** phase of startups. I combine the low-level performance of **C++** with the rapid scalability of **Go** and **Python** to build products that don't just work—they scale.
 
 *   **System Architect:** Deep experience in C++, Go, and Java for building robust backends.
-*   **Emerging Tech:** Actively shipping experiments in **Machine Learning** and **Blockchain**.
-*   **DevOps Mindset:** I don't just code; I deploy and monitor. I’m comfortable with the full lifecycle (K8s, Docker, AWS).
+*   **Other Tech:** Actively shipping experiments in **Machine Learning** and **Blockchain**.
+*   **DevOps Mindset:**  I’m comfortable with the full lifecycle (K8s, Docker, AWS).
 *   **Speed & Quality:** I prioritize shipping fast without compromising on the architecture.
 
 ---
