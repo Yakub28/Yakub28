@@ -1,18 +1,44 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding GIF"/>
+
+  # Software Engineer
+  
+  **Building high-performance systems and scaling the decentralized future.**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yakub-yakubov-a46898223/)
 </div>
 
-### About Me :
-А software developer with strong knowledge of C++, Golang, Python, Java. My technical skills are complemented by a deep interest in machine learning and blockchain. 
-I am always eager to learn and grow as a developer, and I welcome opportunities to explore new technologies and expand my skillset.
-<p align="center">
+---
+
+### 💡 Why Work With Me?
+I thrive in the **0 to 1** phase of startups. I combine the low-level performance of **C++** with the rapid scalability of **Go** and **Python** to build products that don't just work—they scale.
+
+*   **System Architect:** Deep experience in C++, Go, and Java for building robust backends.
+*   **Emerging Tech:** Actively shipping experiments in **Machine Learning** and **Blockchain**.
+*   **DevOps Mindset:** I don't just code; I deploy and monitor. I’m comfortable with the full lifecycle (K8s, Docker, AWS).
+*   **Speed & Quality:** I prioritize shipping fast without compromising on the architecture.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+**The Core**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,go,c,aws,kubernetes,docker,grafana,prometheus,jenkins,bash,linux,mysql,sqlite,githubactions" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,py,java,c,bash" />
   </a>
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
+**Infrastructure & Scaling**
 <p align="left">
-<a href="https://www.linkedin.com/in/yakub-yakubov-a46898223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faisal-kassem-4" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,jenkins,linux" />
+  </a>
+</p>
+
+**Data & Observability**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,prometheus,grafana" />
+  </a>
 </p>
