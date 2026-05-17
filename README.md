@@ -9,7 +9,7 @@
 ---
 
 ### 💡 Why Work With Me?
-I thrive in the **0 to 1** phase of startups. I combine the low-level performance of **C++** with the rapid scalability of **Go** and **Python** to build products that don't just work—they scale.
+I thrive in the **0 to 1** phase of startups. I combine the low-level performance of **C++** with the rapid scalability of **Go** and **Python** to build products that don't just work - they scale.
 
 *   **System Architect:** Deep experience in C++, Go, and Java for building robust backends.
 *   **Other Tech:** Actively shipping experiments in **Machine Learning** and **Blockchain**.
